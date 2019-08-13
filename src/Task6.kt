@@ -17,6 +17,7 @@ fun main(args: Array<String>) {
         return
     }
 
-    println("Второе число больше, чем первое? " + (num2 > num1))
+    val result = num2 > num1
+    println("Второе число больше, чем первое? $result")
 
 }
