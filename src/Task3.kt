@@ -1,3 +1,6 @@
+//Преобразуйте  в String:
+//var five: Char = '5'
+//Затем полученный String преобразуйте в Byte, Short, Int, Double, FLoat и Long
 fun main(args: Array<String>) {
     var five: Char = '5'
 
